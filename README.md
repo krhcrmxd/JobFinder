@@ -1,6 +1,6 @@
 # JobFinder 🧑‍💼
 
-A full-stack job board application with authentication, authorization, and a custom UI.  
+A full-stack job board application with authentication, authorization, and a custom UI created in educational purposes.  
 Users can register, log in, post vacancies and orders, and browse existing listings.
 
 ---
